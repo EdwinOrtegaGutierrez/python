@@ -1,0 +1,3 @@
+pyinstaller --windowed --onefile --icon =./nombre.ico	"nombre.py"
+
+Recae en un repositorio dist
